@@ -1,0 +1,179 @@
+
+body {
+  margin: 0;
+  padding:0;
+  background:black ;
+}
+#processflow
+{
+  color:white;
+}
+#processflow h2
+{
+  font-family: "Archivo Black", sans-serif;
+  text-align: center;
+}
+#processflowvector
+{
+  margin:auto;
+  position:absolute;
+}
+#processflowvector img
+{
+  height: 2480px;
+}
+.slider
+{
+  display:flex;
+  align-items: first baseline;
+}
+.slider img
+{
+  position:relative;
+  z-index:1;
+}
+.card
+{
+  background-color: #2F68FF;
+  position:relative;
+  height:200px;
+  z-index: 1;
+  margin:25px;
+  box-shadow: #1DE1FF 0px 0px 16px 0px;
+  font-family: "Varela Round", sans-serif;
+  border-radius: 30px;
+  min-width:300px;
+}
+.imgleft
+{
+  margin-left:137%;
+}
+#card1
+{
+  margin-top: 30px;
+}
+#card1 .card-title
+{
+  margin-top: -70px;
+}
+#card1 .card-text
+{
+  font-size: 14px;
+  margin-top: -40px;
+}
+#card2
+{
+  margin-top:60px;
+  margin-left: 151%;
+}
+#card2 .card-title
+{
+  margin-top: -60px;
+  margin-left: -20px;
+}
+#card2 .card-text
+{
+  font-size: 14px;
+  margin-top: -40px;
+}
+#card3
+{
+  margin-top:50px;
+}
+#card3 .card-title
+{
+  margin-top: -60px;
+  margin-left: -15px;
+}
+#card3 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card4
+{
+  margin-top:50px;
+  margin-left: 151%;
+}
+#card4 .card-title
+{
+  margin-top: -50px;
+  margin-left: -20px;
+}
+#card4 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card5
+{
+  margin-top:50px;
+}
+#card5 .card-title
+{
+  margin-top: -40px;
+  margin-left: -20px;
+}
+#card5 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card6
+{
+  margin-top:50px;
+  margin-left: 151%;
+}
+#card6 .card-title
+{
+  margin-top: -60px;
+  margin-left: -20px;
+}
+#card6 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card7
+{
+  margin-top:50px;
+}
+#card7 .card-title
+{
+  margin-top: -50px;
+  margin-left: -20px;
+}
+#card7 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card8
+{
+  margin-top:50px;
+  margin-left: 151%;
+}
+#card8 .card-title
+{
+  margin-top: -50px;
+  margin-left: -20px;
+}
+#card8 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
+#card9
+{
+  margin-top:55px;
+}
+#card9 .card-title
+{
+  margin-top: -60px;
+  margin-left: -20px;
+}
+#card9 .card-text
+{
+  font-size: 14px;
+  margin-top: -30px;
+}
